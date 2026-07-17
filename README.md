@@ -1,8 +1,8 @@
-#Hi, Im Rachata
+# Hi, Im Rachata
 
-##About Me
+## About Me
   -jobless
   -Currently a somedude
 
-###Goal
+### Goal
   -Number1 DEV on Moon
